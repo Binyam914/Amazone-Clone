@@ -1,4 +1,4 @@
-require("dotenv").config();
+//require("dotenv").config();
 const port = 8100;
 const express = require("express");
 const cors = require("cors");
